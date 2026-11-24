@@ -34,6 +34,10 @@ Libraries of shipped product design your agent can search before it designs.
   library (600,000+ screens) from the well-known design reference product. 3 tools (screen,
   flow, and section search). Remote server; available on Pro & Team plans.
   [Website](https://mobbin.com/mcp)
+- **[Linger MCP](https://withlinger.com/resources/mcp-design-reference-library/)** — a local
+  stdio server included with the Linger app for Apple Silicon Macs. An agent can browse
+  references you have saved, inspect their image previews, and read Project Canvases.
+  Read-only by default. Requires an initialized Linger library.
 
 ### At a glance
 
